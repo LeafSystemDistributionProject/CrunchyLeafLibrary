@@ -2,3 +2,7 @@
 /**/*.o
 /**/*.so
 /**/*.a
+/unistd_64.h
+/unistd_32.h
+/include/sys/_syscall64.h
+/include/sys/_syscall32.h
