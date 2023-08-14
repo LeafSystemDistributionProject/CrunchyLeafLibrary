@@ -1,4 +1,4 @@
 #ifndef STRING_H
 #define STRING_H
 
-#endif /* STDIO_H */
+#endif /* STRING_H */
